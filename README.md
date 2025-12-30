@@ -139,6 +139,9 @@ If an agent isn't being used:
 4. **No Heroics**: If an agent can't do something, it routes to the right owner
 5. **Documentation as Code**: Agent definitions are the source of truth
 
+## Star
+[![Star History Chart](https://api.star-history.com/svg?repos=fom-dev/company-in-a-box&type=Date)](https://star-history.com/#fom-dev/company-in-a-box&Date)
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
