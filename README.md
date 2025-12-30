@@ -1,3 +1,5 @@
+![Visitors](https://hits.sh/github.com/fom-dev/company-in-a-box.svg?style=flat-square&label=visitors&color=5BDC9E)
+
 # AI Company OS
 
 A complete organizational structure for running a software house using AI agents. Each agent has a single, clear responsibility with defined inputs, outputs, and boundaries.
