@@ -3,7 +3,6 @@
 A complete organizational structure for running a software house using AI agents. Each agent has a single, clear responsibility with defined inputs, outputs, and boundaries.
 
 ![Visitors](https://hits.sh/github.com/fom-dev/company-in-a-box.svg?style=flat-square&label=visitors&color=5BDC9E)
-[☕ Buy me a coffee](https://buymeacoffee.com/fomdev) if this helped
 
 
 ## Philosophy
@@ -141,8 +140,11 @@ If an agent isn't being used:
 4. **No Heroics**: If an agent can't do something, it routes to the right owner
 5. **Documentation as Code**: Agent definitions are the source of truth
 
-## Star
-[![Star History Chart](https://api.star-history.com/svg?repos=fom-dev/company-in-a-box&type=Date)](https://star-history.com/#fom-dev/company-in-a-box&Date)
+[☕ Buy me a coffee](https://buymeacoffee.com/fomdev) if this helped
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fom-dev/company-in-a-box&type=date&legend=top-left)](https://www.star-history.com/#fom-dev/company-in-a-box&type=date&legend=top-left)
 
 ## Contributing
 
